@@ -4,7 +4,7 @@ require 'rubygems'
 require 'ruby-prof'
 require 'memcache'
 require 'pp'
-
+#edited by guo
 
 #require 'grit'
 require 'lib/grit'
